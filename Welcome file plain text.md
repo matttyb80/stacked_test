@@ -150,6 +150,8 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+
+## C4
 ```mermaid
 C4Context
       title System Context diagram for Internet Banking System
